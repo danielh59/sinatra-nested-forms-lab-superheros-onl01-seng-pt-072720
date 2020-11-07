@@ -6,5 +6,5 @@ class App < Sinatra::Base
     "hello meow"
     erb :form
   end
-  s
+  
 end
